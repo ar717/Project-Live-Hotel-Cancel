@@ -11,6 +11,8 @@ Imported raw booking data.
 Cleaned data by handling missing values, removing duplicates, correcting data types, and formatting inconsistencies.
 Structured the dataset to make it analysis-ready.
 
+https://github.com/ar717/Project-Live-Hotel-Cancel/blob/main/Project%20Hotel%20Booking%20Analysis
+
 
 # Pivot Table Analysis:
 
